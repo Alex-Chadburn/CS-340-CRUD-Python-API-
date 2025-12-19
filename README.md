@@ -1,6 +1,7 @@
 # CS-340-CRUD-Python-API-
 
 - How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
 I Usually write programs and separate them into smaller easier to discern parts, such as in C++ you can have headers and C++ files. By making sure most things are modular, changing one aspect of a program becomes easier. In the case of this project, I made what is effectively an API for a database, and it is meant to be adaptable for not just animal shelters but also any other type of database. The widgets, filtering, sorting, and charts really show how I could expand on this specific module for future use.
 
 - How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
